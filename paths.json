@@ -1,0 +1,13 @@
+{
+  "user_data": {
+    "categories": "user_data/categories.txt",
+    "personal_data": "user_data/personal_data.json",
+    "settings": "user_data/settings.json"
+  },
+  "data": {
+    "broken_articles": "data/broken_articles.txt",
+    "locators": "data/locators.json",
+    "log": "data/log.json",
+    "progress": "data/progress.txt"
+  }
+}

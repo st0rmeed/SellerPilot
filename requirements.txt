@@ -1,0 +1,6 @@
+pywin32==308
+QDarkStyle==3.2.3
+selenium==4.31.0
+webdriver-manager==4.0.2
+PyQt6==6.7.1
+PyQt6_sip==13.9.0

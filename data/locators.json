@@ -1,0 +1,22 @@
+{
+    "locators_comment": "Ниже приведены локаторы элементов. Метод поиска и ключ разделены через &",
+    "login_locator": "xpath&//input[@id=//label[text()='Введите имя пользователя']/@for]",
+    "password_locator": "xpath&//input[@id=//label[text()='Введите пароль']/@for]",
+    "submit_button_locator": "xpath&//vaadin-button[contains(., 'Войти')]",
+    "discount_locator": "xpath&//input[@id=//label[contains(text(), 'Скидка, %')]/@for]",
+    "price_element_locator": "xpath&//b[contains(., 'Цена поставщика:')]/following-sibling::text()[1]/parent::*",
+    "price_field_locator": "xpath&//input[@id=//label[contains(text(), 'Цена')]/@for]",
+    "trigger_price_locator": "xpath&//input[@id=//label[contains(text(), 'Триггерная цена')]/@for]",
+    "duplicates_locator":"xpath&//input[@id=//label[contains(text(), 'Дубликатов')]/@for]",
+    "warehouse_field_locator":"xpath&//div[b[text()='Склад поставщика:']]",
+    "article_locator":"xpath&//input[@id=//label[contains(text(), 'Кастомизация артикула')]/@for]",
+    "price_step_locator":"xpath&//input[@id=//label[contains(text(), 'Шаг цены')]/@for]",
+    "brands_locator": "xpath&//input[@id=//label[contains(text(), 'Бренд')]/@for]",
+    "import_product_button_locator": "xpath&//vaadin-button[text()='Импортировать']",
+    "error_message_locator": "xpath&//vaadin-notification[@theme='contrast']",
+    "help_button_locator": "xpath&//*[@id='supportTrigger']/div[2]",
+    "cross_button_locator": "css selector&div.support-close.header-button",
+    "price_from_locator": "xpath&//input[@placeholder='Цена от']",
+    "price_up_to_locator": "xpath&//input[@placeholder='Цена до']",
+    "combobox_elements": "xpath&//*[contains(@id, 'vaadin-combo-box-item-') and not(@hidden)]"
+}
