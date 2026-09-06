@@ -83,10 +83,6 @@ SellerPilot/
 
 ---
 ## 📽️ Пример работы программы
-
-<video src="gallery/pilot.mp4" controls="controls" style="max-width: 100%;">
-  Здесь должно было быть видео
-</video>
-
+https://github.com/st0rmeed/SellerPilot/blob/master/gallery/pilot.mp4
 
 
