@@ -84,6 +84,9 @@ SellerPilot/
 ---
 ## 📽️ Пример работы программы
 
-![](gallery/pilot.mp4)
+<video src="gallery/pilot.mp4" controls="controls" style="max-width: 100%;">
+  Здесь должно было быть видео
+</video>
+
 
 
