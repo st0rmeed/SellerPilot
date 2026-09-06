@@ -83,7 +83,6 @@ SellerPilot/
 
 ---
 ## 📽️ Пример работы программы
-
-![](gallery/pilot.mp4)
+https://github.com/st0rmeed/SellerPilot/blob/master/gallery/pilot.mp4
 
 
